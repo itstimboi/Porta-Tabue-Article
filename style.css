@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+    background-color: dimgray;
+}
+
+b{
+    color: lightgreen;
+}
+
+p{
+    color: white;
+}
+
+h1{
+    color: chocolate;
+}
+
+h2{
+      color: aquamarine;  
+}
+
+h3{
+    color: burlywood;
+}
+
+h4{
+    color: forestgreen;
+}
